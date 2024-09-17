@@ -57,6 +57,10 @@
     font-size: 18px;
   }
 
+.about-section img {
+  max-width: 50%;
+}
+
   .about-section-content {
     margin: 30px;
   }
