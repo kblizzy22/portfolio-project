@@ -43,25 +43,25 @@
     line-height: 2;
   }
 
-.about-section {
+.content-container {
     text-align: center;
     padding: 0;
   }
 
-  .about-section h1 {
+  .content-container h1 {
     font-size: 64px;
     line-height: 80px;
   }
 
-  .about-section h2 {
+  .content-container h2 {
     font-size: 18px;
   }
 
-.about-section img {
-  max-width: 50%;
-}
+  .content-container img {
+    max-width: 50%;
+  }
 
-  .about-section-content {
+  .content {
     margin: 30px;
   }
 
